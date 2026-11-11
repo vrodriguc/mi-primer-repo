@@ -1,0 +1,8 @@
+# Python
+__pycache__/
+.venv/
+*.pyc
+.env
+
+# Datos pesados
+data/raw/
